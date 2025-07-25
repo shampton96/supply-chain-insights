@@ -22,8 +22,7 @@ Since then, I’ve expanded my toolset to include:
 
 What sets me apart is the combination of technical depth and communication skills. I don’t just write queries—I ask the right questions, uncover root causes, and translate insights into clear, actionable narratives. I thrive in cross-functional teams and believe that the ability to explain data to non-technical audiences is just as important as the analysis itself.
 
-🎮 As a long-time fan of *Fallout* and the immersive, choice-driven worlds Bethesda creates, I’d be thrilled to contribute to a studio that values curiosity, creativity, and collaboration.  
-📊 Analyzing what makes a game fun, balanced, and unforgettable? That sounds like the ultimate quest.
+Outside of work, I enjoy hiking, road trips, exploring new restaurants, reading, and spending time with my cat, George—because great analysts need curious minds and a little downtime.
 
 ---
 
