@@ -13,7 +13,7 @@ Each report is purpose-built to address a specific need, from material planning 
 
 ## 🔹 Landing Page: Self-Service Hub
 
-![Landing Page Screenshot](LandingPage.PNG)
+![Landing Page Screenshot](LandingPage2.PNG)
 
 
 
